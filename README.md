@@ -52,9 +52,9 @@ Happy reading and happy coding!
 ![watchers number](https://img.shields.io/github/watchers/free-educa/books.svg)
 ![Opened issues](https://img.shields.io/github/issues/free-educa/books.svg)
 ![Closed issues](https://img.shields.io/github/issues-closed/free-educa/books.svg)
-![Opened PR's](https://img.shields.io/github/issues-pr/free-educa/books.svg)
+![Opened PR's](https://img.shields.io/github/issues-pr/free-educa/books.svg fkmgndfmg,dfgmdnfgmdm fdjgmdf fgdmf gjdfb,m,kkfnghdm fdjkfmg nnmfgmdfgn fd,gmdgmd flgkdfmdmfmsmf g,dgks,mgdf kfgdfgbnfdgmdf ,kfkgndfmg d dfmgdjfnmdnfgjfdbgvdmfbg dfjgjejfgnerge  erjgerbgeujrbmmfgdmgdj gdfgnmnfdhsdg smfdnsdfnjsdgdf ghjdm,dfsgdn,mme,mdfrjwngtfwjer nwenjfnwenfw fjbwnejrnwefrnw fdkf,sdfms djf sjdmfjsdg jdfb gsdlfgsdbgkfdkg dfkg ndmfgns dfgsmdgsjg ,kmfgbm djhng,kfjgndjfgn fkgmdfgd   fgkmdfmg d,fmgfdh,dkgndfklhmdf,gfndksdnmfgkdfng,dmfgd fgkdkjgdfjghn,,erkwe gftjweg,wmfgfer ng,me rgemrgnerjjrbtjerblkemrkwnmwen tm fgjdmfs,d,fds fjsdb f,mjfgdfmg dfh .f,ghfdg d gjfnh,e gdl.gfkfdg j fgjdf,g,dfuymdfms d
 ![Closed PR's](https://img.shields.io/github/issues-pr-closed/free-educa/books.svg)
-
+nndfsdg ns bfdsbd mdnmfs ng sdnsdbgfsgm gdfmsdfsmdg
 <br>
 
 **📚Free-Educa Team**
